@@ -38,9 +38,9 @@ class Footer extends Component{
         <div class="col-md-4 footer_grid">
             <h3>Contact Info</h3>
             <ul class="address">
-                <li><i class="fa fa-map-marker" aria-hidden="true"></i>8088 USA, Honey block, <span>New York City.</span></li>
+                <li><i class="fa fa-map-marker" aria-hidden="true"></i>Nepal <span>Kathmandu</span></li>
                 <li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">info@example.com</a></li>
-                <li><i class="fa fa-phone" aria-hidden="true"></i>+09187 8088 9436</li>
+                <li><i class="fa fa-phone" aria-hidden="true"></i>0123457</li>
             </ul>
         </div>
         <div class="clearfix"> </div>
@@ -65,9 +65,9 @@ class Footer extends Component{
             <div class="col-md-9 footer_bottom_grid">
                 <div class="footer_bottom1">
                     <a href="index.html">
-                        <h2><span class="fa fa-signal" aria-hidden="true"></span> Soft <label>Hr Agency</label></h2>
+                        <h2><span class="fa fa-signal" aria-hidden="true"></span> just <label>work</label></h2>
                     </a>
-                    <p>© 2017 Soft. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+                    <p></p>
                 </div>
             </div>
             <div class="col-md-3 footer_bottom_grid">
