@@ -23,7 +23,7 @@ class Header extends Component{
 					<span class="icon-bar"></span>
 				</button>
 						<a class="navbar-brand" href="index.html">
-							<h1><span class="fa fa-signal" aria-hidden="true"></span> Soft <label>Hr Agency</label></h1>
+							<h1><span class="fa fa-signal" aria-hidden="true"></span> Just <label>Work</label></h1>
 						</a>
 					</div>
 					{/* <!--/.navbar-header--> */}
